@@ -3,3 +3,4 @@ version:
 config:
   info:
     hello-world
+    version:1.0.0
